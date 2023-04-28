@@ -40,7 +40,7 @@ let Questions = [
         answerD: "It is not used in coding."
     },
     {
-        question: "3: Mainly using THIS code editor would absolutely get you submitted to a psyche ward for your own protection:",
+        question: "3: Mainly using THIS code editor would absolutely get you submitted somewhere for your own protection:",
         answerA: "VIM",
         answerB: "Window's built-in Notepad App",
         answerC: "Notepad++",
@@ -50,7 +50,7 @@ let Questions = [
         question: "4: After a hard rewarding night of coding, an ideal human would be inclined to do THIS:",
         answerA: "Devour at least 3 16-unit boxes of blueberry Pop-Tarts.", 
         answerB: "Brush their teeth, and prepare for bed.",
-        answerC: "Re-binge Star Trek: Generations all in one night, or attempt to. Again.",
+        answerC: "Re-binge Star Trek: Next Generation all in one night, or attempt to. Again.",
         answerD: "Stay up all night reading Witcher fan-fiction. Again. Because you're starved for content and you deserve it."
     },
     {
